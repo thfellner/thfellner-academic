@@ -20,8 +20,7 @@ organizations:
   url: "https://www.viennabiocenter.org/facilities/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: There are two things I really love doing. Programming and Photography. I also love combining both doing statistical
-analysis on my photos to see which lens I should buy. 
+bio: There are two things I really love doing. Programming and Photography. I also love combining both doing statistical analysis on my photos to see which lens I should buy. 
 
 interests:
 - Programming
